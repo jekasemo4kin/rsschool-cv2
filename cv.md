@@ -14,6 +14,7 @@
 ---
 ---
 
+
 ### Information about yourself:
 
 After 11 years of school, I went to the Belarusian Russian University, which is located in my hometown of Mogilev.Specialty - Automated electric drives. Faculty - Electrotechnical. The diploma will say: "electrical engineer", "power engineer", "electronics engineer". I decided to enter there because the future work is highly paid, physics and mathematics, a technical mindset were interesting. Now I decided to try my hand at programming.
