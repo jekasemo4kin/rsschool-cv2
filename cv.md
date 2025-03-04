@@ -4,9 +4,10 @@
 ---
 ---
 
-**Phone:** +375293931967
+**Телефон:** +375293931967
 **Gmail:** jekasemo4kin@gmail.com
 **VK:** https://vk.com/v13ss
+**Telegram:** @jekasemo4kin
 
 ---
 ---
