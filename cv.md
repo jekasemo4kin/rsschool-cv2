@@ -29,6 +29,8 @@
 - CSS
 - SCSS
 - JavaScript
+- TypeScript
+- ReactJS
 - GitHub
 - NodeJS Basics
 - Figma Basics
