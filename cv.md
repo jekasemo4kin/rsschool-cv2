@@ -47,7 +47,6 @@
 **- Стажёр Frontend разработчик**  
 
 Успешно пройденная “Commercial Software Development — JavaScript” training компании Itranstion.
-
 Опыт работы - 2 месяца. 
 
 **- Инженер по техническим средствам**  
