@@ -26,11 +26,12 @@
 - HTML5 
 - CSS
 - SCSS
-- TailWindCSS
-- Vite
+- PHP
 - JavaScript
 - TypeScript
 - ReactJS
+- TailWindCSS
+- Vite
 - GitHub
 - NodeJS Basics
 - Figma Basics
@@ -51,7 +52,7 @@
 **- Инженер по техническим средствам**  
 
 Был инженером электриком с техником в моём подчинении.  
-Опыт работы - 3 года.  
+Опыт работы - 2 года.  
 
 **- Сторож школы во времена студенчества**  
 
