@@ -44,9 +44,9 @@
 ---
 ---
 
-### Пет проекты:
+### Пет проекты: 
 1 - https://task-7-of-the-internship-frontend-v.vercel.app/ 
-2 - https://you-tube-helper-frontend.vercel.app/
+2 - https://you-tube-helper-frontend.vercel.app/ 
 ---
 ---
 
